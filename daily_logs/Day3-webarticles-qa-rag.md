@@ -1,7 +1,6 @@
 ## 🚀 Day 3 of RAG100x — Web RAG with Source Attribution & Hallucination Detection
 
-**📅 Date:** July 18, 2025  
-**📂 Notebook:** `03_web_blog_rag.ipynb`  
+**📅 Date:** July 18, 2025   
 **🎯 Goal:** Build a web-sourced RAG pipeline using blog data, LLaMA-3, Chroma, and Groq — with relevance grading and hallucination detection.
 
 ### ✅ What Was Built

@@ -1,7 +1,6 @@
 ## 🚀 Day 5 of RAG100x — Propositional Chunking & Quality-Driven Retrieval
 
-**📅 Date:** July 22, 2025  
-**📂 Notebook:** `05_propositional_chunking_rag.ipynb`  
+**📅 Date:** July 22, 2025   
 **🎯 Goal:** Implement and benchmark a production-ready RAG pipeline using propositional chunking, quality evaluation, and FAISS retrieval to improve precision and reduce hallucinations.
 
 ### ✅ What Was Built

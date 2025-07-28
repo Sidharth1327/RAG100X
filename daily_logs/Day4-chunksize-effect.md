@@ -1,7 +1,6 @@
 ## 🚀 Day 4 of RAG100x — Evaluation-Driven RAG Benchmarking (Faithfulness + Relevance)
 
 **📅 Date:** July 19, 2025  
-**📂 Notebook:** `04_llamaindex_eval_rag.ipynb`  
 **🎯 Goal:** Build an evaluation-focused RAG system using LlamaIndex and OpenAI to measure how chunk size affects response quality and latency.
 
 ### ✅ What Was Built

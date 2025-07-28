@@ -1,7 +1,6 @@
 ## 🚀 Day 9 of RAG100x — Contextual Chunk Headers (CCH)
 
 **📅 Date:** July 28, 2025  
-**📂 Notebook:** `09_contextual_chunk_headers.ipynb`  
 **🎯 Goal:** Improve chunk-level retrieval by injecting lightweight contextual headers (titles + summaries) at indexing time, making each chunk more semantically meaningful and retrievable.
 
 ### ✅ What Was Built

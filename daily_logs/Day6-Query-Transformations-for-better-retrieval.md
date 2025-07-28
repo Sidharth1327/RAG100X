@@ -1,7 +1,6 @@
 ## 🚀 Day 6 of RAG100x — Query Transformation for Better Retrieval
 
 **📅 Date:** July 23, 2025  
-**📂 Notebook:** `06_query_transformations.ipynb`  
 **🎯 Goal:** Build a modular RAG pipeline that applies LLM-powered query transformation techniques — rewriting, step-back prompting, and sub-query decomposition — to improve retrieval precision and answer quality.
 
 ### ✅ What Was Built

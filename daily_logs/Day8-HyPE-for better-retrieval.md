@@ -1,7 +1,6 @@
 ## 🚀 Day 8 of RAG100x — Hypothetical Prompt Embeddings (HyPE)
 
 **📅 Date:** July 27, 2025  
-**📂 Notebook:** `08_HyPE_question_question_matching.ipynb`  
 **🎯 Goal:** Implement the HyPE technique to improve retrieval by generating and embedding hypothetical questions at indexing time, converting retrieval into a question-to-question matching task.
 
 ### ✅ What Was Built
